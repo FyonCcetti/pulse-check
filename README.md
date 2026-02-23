@@ -7,10 +7,10 @@ Landing page for other projects (private and public, local and global). Parts of
 
 ## Education (OMSCS) <sub>[<span style="color: rgba(255, 127, 0, 0.5);">IN PROGRESS</span>, <span style="color: rgba(123, 123, 123, 0.5);">PRIVATE</span>, <span style="color: rgba(123, 123, 123, 0.5);">LOCAL</span>]</sub>
 
-### cs7642: Reinforcement Learning <sub>[<span style="color: rgba(45, 90, 39, 0.5);">COMPLETED</span>, <span style="color: rgba(123, 123, 123, 0.5);">PRIVATE</span>, <span style="color: rgba(123, 123, 123, 0.5);">GLOBAL</span>]</sub>
+### [cs7642](https://github.com/FyonCcetti/cs7642/tree/main): Reinforcement Learning <sub>[<span style="color: rgba(45, 90, 39, 0.5);">COMPLETED</span>, <span style="color: rgba(123, 123, 123, 0.5);">PRIVATE</span>, <span style="color: rgba(123, 123, 123, 0.5);">GLOBAL</span>]</sub>
 
 
-### cs7641: Machine Learning <sub>[<span style="color: rgba(45, 90, 39, 0.5);">COMPLETED</span>, <span style="color: rgba(123, 123, 123, 0.5);">PRIVATE</span>, <span style="color: rgba(123, 123, 123, 0.5);">GLOBAL</span>]</sub>
+### [cs7641](https://github.com/FyonCcetti/cs7641/tree/main): Machine Learning <sub>[<span style="color: rgba(45, 90, 39, 0.5);">COMPLETED</span>, <span style="color: rgba(123, 123, 123, 0.5);">PRIVATE</span>, <span style="color: rgba(123, 123, 123, 0.5);">GLOBAL</span>]</sub>
 
 ### cs7646: Machine Learning for Trading <sub>[<span style="color: rgba(45, 90, 39, 0.5);">COMPLETED</span>, <span style="color: rgba(123, 123, 123, 0.5);">PRIVATE</span>, <span style="color: rgba(123, 123, 123, 0.5);">GLOBAL</span>]</sub>
 
